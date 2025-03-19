@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedAyaz105800
-- 👀 I’m interested in software dev,frontend,backend web,dsa.
+- 👀 I’m a passionate backend developer.
 - 🌱 I’m currently doing problem solving.
 - 💞️ I’m looking to collaborate on software dev role.
 - 📫 How to reach me ayazmotoe3power@gmail.com
